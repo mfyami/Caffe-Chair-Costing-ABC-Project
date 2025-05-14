@@ -1,63 +1,59 @@
-# Caffe-Chair-Costing-ABC-Project
-Cost and profitability analysis for the Caffe Chair project using Activity-Based Costing (ABC). Includes full BOM breakdown, CVP analysis, master budget, pricing strategy, and unit cost of $10.65. Designed for manufacturing and financial decision support.
-☕ Caffe Chair Costing & Budgeting Project
+# 🪑 Caffe Chair Financial Modeling & Cost Optimization Project
 
-Overview
+This project presents a comprehensive financial and operational model for a high-volume chair manufacturing business. It applies advanced cost accounting techniques to support strategic pricing, budgeting, and production decisions.
 
-This project provides a complete financial and operational breakdown of the Caffe Chair — a sustainable, cost-efficient wooden chair designed for cafés, homes, and offices. Using Activity-Based Costing (ABC), the project accurately assigns overhead costs and aligns pricing with market competitiveness and profitability goals.
+## 📌 Project Scope
 
-🔍 Key Components
+The project was developed as part of an academic assignment in cost accounting and managerial finance, combining technical knowledge in product design, budgeting, and profitability analysis.
 
-1. Bill of Materials (BOM)
+## 🧮 Key Features
 
-Pine Wood, Screws, Paint, Glue
+- **Activity-Based Costing (ABC):** Allocated overhead costs based on actual resource usage.
+- **Cost-Volume-Profit (CVP) Analysis:** Determined break-even point and contribution margins.
+- **Master Budget:** Included sales, production, materials, labor, and overhead budgets.
+- **Job Costing:** Calculated per-unit cost based on direct, indirect, fixed, and variable costs.
+- **Pricing Strategy:** Compared market prices and set optimized markup for profitability.
+- **Budgeted Income Statement:** Forecasted revenue, COGS, gross profit, and net operating income.
 
-Unit material cost per chair: $8.03
+## 📊 Key Results
 
-2. Labor & Overhead Costs
+- **Total cost per unit:** $10.65  
+- **Selling price per unit:** $40  
+- **Break-even point:** 5,357 chairs  
+- **Projected annual net income:** $41,200  
+- **Annual production volume:** 72,000 units  
 
-Direct Labor: $1.05 per unit
+## 📁 Files Included
 
-Overhead (ABC applied): $1.572 per unit
+- PowerPoint presentation summarizing cost analysis and budgeting
+- Visual breakdowns of costing structure and financial statements
 
-Total Cost per Chair: $10.65
+## 🎓 Skills Demonstrated
 
-3. Pricing & Sales
+- Financial planning & analysis  
+- Product cost breakdown  
+- Strategic pricing  
+- Budget preparation  
+- Business decision-making  
 
-Target Market Price: $40
+## ✅ Tools Used
 
-Contribution Margin: $29.35
+- Microsoft Excel (budgeting & costing models)  
+- Microsoft PowerPoint (presentation and documentation)
 
-Break-even volume: 5,357 chairs
+## 📌 Relevance
 
-4. Master Budget Summary
+This project reflects core competencies in financial and operations planning, and is relevant to roles in:
+- Project Management
+- Sales & Business Strategy
+- Cost Engineering
+- Industrial Operations
 
-Annual Sales: 72,000 chairs → $2.88M revenue
+---
 
-Total COGM: $760,040
 
-Net Operating Income: $41,200
 
-5. CVP Analysis
+---
 
-Variable Cost: $8.34
 
-Fixed Cost: $169,600
 
-📈 Tools & Methods
-
-Activity-Based Costing (ABC)
-
-Master Budget Planning
-
-CVP and Break-Even Analysis
-
-Target Pricing Model
-
-🧾 Output Files
-
-Caffe Chair ACC Project (PPTX)
-
-Accounting Report (DOCX)
-
-BOM breakdowns and cost models
